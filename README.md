@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulvahith26" alt="abdulvahith26" /></a> </p>
 
-- 🌱 I’m currently learning **java script,Mongo DB,Express,React,Node**
+- 🌱 Skilled in  **HTML, CSS, Tailwind CSS,java script,React.js,Node.js,Express.js,Mongo DB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
